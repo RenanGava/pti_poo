@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\PTI-POO\bin\Debug\net7.0\PTI-POO.exe
+C:\Users\renan\Desktop\PTI-POO\bin\Debug\net7.0\PTI-POO.deps.json
+C:\Users\renan\Desktop\PTI-POO\bin\Debug\net7.0\PTI-POO.runtimeconfig.json
+C:\Users\renan\Desktop\PTI-POO\bin\Debug\net7.0\PTI-POO.dll
+C:\Users\renan\Desktop\PTI-POO\bin\Debug\net7.0\PTI-POO.pdb
+C:\Users\renan\Desktop\PTI-POO\obj\Debug\net7.0\PTI-POO.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\PTI-POO\obj\Debug\net7.0\PTI-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\PTI-POO\obj\Debug\net7.0\PTI-POO.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\PTI-POO\obj\Debug\net7.0\PTI-POO.AssemblyInfo.cs
+C:\Users\renan\Desktop\PTI-POO\obj\Debug\net7.0\PTI-POO.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\PTI-POO\obj\Debug\net7.0\PTI-POO.dll
+C:\Users\renan\Desktop\PTI-POO\obj\Debug\net7.0\refint\PTI-POO.dll
+C:\Users\renan\Desktop\PTI-POO\obj\Debug\net7.0\PTI-POO.pdb
+C:\Users\renan\Desktop\PTI-POO\obj\Debug\net7.0\PTI-POO.genruntimeconfig.cache
+C:\Users\renan\Desktop\PTI-POO\obj\Debug\net7.0\ref\PTI-POO.dll
