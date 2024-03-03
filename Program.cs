@@ -14,16 +14,20 @@
         {
 
           var carro = new Carro(50.00);
-          Console.WriteLine(carro.CalcularValorTotal(10));
+          carro.CalcularValorTotal(10);
+          var valorTotal = carro.CalcularValorTotal(10);
+          Console.WriteLine("Valor total das diarias do Carro: " + valorTotal);
 
         }
         else if (opcao.KeyChar == '2')
         {
           var moto = new Moto(25.00);
+          var valorTotal = moto.CalcularValorTotal(10);
 
-          Console.WriteLine(moto.CalcularValorTotal(10));
+          Console.WriteLine("Valor total das diarias da Moto: " + valorTotal);
         }
-        else if (opcao.Key == ConsoleKey.Escape){
+        else if (opcao.Key == ConsoleKey.Escape)
+        {
           Console.WriteLine("Saindo do Sistema...");
           break;
         }
